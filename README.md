@@ -12,6 +12,8 @@ Sample Size      | Ansi           | Unicode           |  Tested version  |
 ---------------- | ---------------| ----------------- | ---------------- |
 2                | Working        | Not working       |  5.6.1 -> 6.0.3  |
 
+IDE: VS 2015, toolkit v140.
+
 Block chart (not correct,  prototype). 
 
 ![screendump blockchart](https://github.com/StackerDEV/inno_se_enckey_dumper/blob/main/blockchart.png?raw=true)
