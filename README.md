@@ -14,7 +14,7 @@ Sample Size      | Ansi           | Unicode           |  Tested version  |
 
 IDE: VS 2015, toolkit v140.
 
-Block chart (not correct,  prototype). 
+Block chart (**not correct**,  prototype). 
 
 ![screendump blockchart](https://github.com/StackerDEV/inno_se_enckey_dumper/blob/main/blockchart.png?raw=true)
 
