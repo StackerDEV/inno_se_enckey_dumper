@@ -8,9 +8,9 @@
 
 ## Test enviroment
 
-Sample size: 2
-Ansi [working]
-Unicode [not working]
+Sample Size      | Ansi           | Unicode           |  Tested version  |
+---------------- | ---------------| ----------------- | ---------------- |
+2                | Working        | Not working       |  5.6.1 -> 6.0.3  |
 
 Block chart (not correct,  prototype). 
 
