@@ -1,0 +1,28 @@
+﻿{
+  "FileMenu": "Файл",
+  "OpenInstaller": "Открыть установщик",
+  "OpenCompiledCode": "Открыть скомпилированный код",
+  "ExportDecompiledCode": "Экспортировать декомпилированный код",
+  "CloseMenu": "Закрыть",
+  "ExitMenu": "Выйти",
+
+  "HelpMenu": "Справка",
+  "VisitWebsiteMenu": "Посетить сайт",
+  "AboutMenu": "О программе",
+  "VersionLabel": "Версия",
+
+  "LangMenu": "Язык",
+  "LangWillBeLoadedOnNextLaunch": "Язык '{0}' будет загружен при следующем запуске",
+
+  "Methods": "Методы",
+  "Externals": "Внешние методы",
+  "ExternalsDLL": "Внешние методы (DLL)",
+
+  "ScriptOpenedNotification": "Скрипт открыт",
+  "FailedToOpenScriptNotification": "Не удалось открыть скрипт",
+
+  "CodeExportedNotification": "Код экспортирован",
+  "FailedToExportCodeNotification": "Не удалось экспортировать код",
+
+  "CreatedWith": "Создано в {0} {1}"
+}

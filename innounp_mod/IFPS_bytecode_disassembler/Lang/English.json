@@ -1,0 +1,28 @@
+﻿{
+  "FileMenu": "File",
+  "OpenInstaller": "Open installer",
+  "OpenCompiledCode": "Open compiled code",
+  "ExportDecompiledCode": "Export decompiled code",
+  "CloseMenu": "Close",
+  "ExitMenu": "Exit",
+
+  "HelpMenu": "Help",
+  "VisitWebsiteMenu": "Visit website",
+  "AboutMenu": "About",
+  "VersionLabel": "Version",
+
+  "LangMenu": "Language",
+  "LangWillBeLoadedOnNextLaunch": "Language '{0}' will be loaded on next launch",
+
+  "Methods": "Methods",
+  "Externals": "Externals",
+  "ExternalsDLL": "Externals (DLL)",
+
+  "ScriptOpenedNotification": "Script is opened",
+  "FailedToOpenScriptNotification": "Failed to open script",
+
+  "CodeExportedNotification": "Code is exported",
+  "FailedToExportCodeNotification": "Failed to export code",
+
+  "CreatedWith": "Created with {0} {1}"
+}
